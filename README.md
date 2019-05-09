@@ -1,4 +1,4 @@
-#                             roadTrip
+                              roadTrip
           A Simple Toy Car converted to a self driving car
           ________________________________________________
 '''                        roadTRIP v1.0                   '''
@@ -19,11 +19,11 @@
 
 '''
 ###############################################################################     
-#                                     WORKING
-#        RaspberryPi3............The Brain Of the Car   #######################
-#        Camera..................Line Detection         #######################
-#        SuperSonicSensor........DistanceDetection      #######################
-#        L293d...................Navigation             #######################
+                                     WORKING
+         RaspberryPi3............The Brain Of the Car   
+         Camera..................Line Detection         
+         SuperSonicSensor........DistanceDetection      
+         L293d...................Navigation             
 ###############################################################################
 
 
