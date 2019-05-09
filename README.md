@@ -1,5 +1,6 @@
-# roadTrip
-A Simple Toy Car converted to a self driving car
+#                             roadTrip
+          A Simple Toy Car converted to a self driving car
+          ________________________________________________
 '''                        roadTRIP v1.0                   '''
 #########################      #####     #############Rey#####
 ##############################################################
